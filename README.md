@@ -130,7 +130,3 @@ npm run dev
 kubectl delete -f k8s/
 minikube stop
 ```
-
-## License
-
-MIT
